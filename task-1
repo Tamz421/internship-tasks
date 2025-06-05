@@ -1,0 +1,19 @@
+Task 1: Cloud Storage Setup Using AWS S3
+
+This task focuses on creating and configuring a reliable cloud storage system using Amazon Web Services (AWS) S3.
+
+Objective
+
+Set up a scalable and secure S3 bucket, implement file upload, configure access permissions, enable data protection features, and simulate storage lifecycle automation.
+
+What I Did
+
+- Created an AWS S3 bucket with a unique name and selected region
+- Uploaded sample files (e.g., `.txt`, `.pdf`, `.jpg`)
+- Enabled versioning for backup and recovery
+- Configured bucket policy (JSON) to control access
+- Enabled default server-side encryption (SSE-S3)
+- Set up lifecycle rules to move files to Glacier after 30 days
+- Took screenshots and documented each step
+
+
